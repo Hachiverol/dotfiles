@@ -1,0 +1,64 @@
+#!/bin/bash
+delim="|"
+hostname=$HOSTNAME
+
+status() { \
+	# RAM usage
+	used=$(vmstat -s | grep 'used memory' | sed 's/K used memory//' | sed 's/[ ]//g' | sed -r 's/.{3}$//')
+	echo "Mem: ${used}M"
+	echo "$delim"
+
+	# Brightness
+	brightness=$(light)
+	echo "Brt: $brightness"
+	echo "$delim"
+
+	# Volume
+	volume=$(pamixer --get-volume-human)
+	echo "Vol: $volume"
+	echo "$delim"
+
+	# Battery shit
+	check0=/sys/class/power_supply/BAT0/status
+	check1=/sys/class/power_supply/BAT1/status
+
+	if [[ -f $check1 ]]; then
+		state=$(cat /sys/class/power_supply/AC/online)
+		percentage0=$(cat /sys/class/power_supply/BAT0/capacity)
+		percentage1=$(cat /sys/class/power_supply/BAT1/capacity)
+		percentage=`echo "($percentage0 + $percentage1) / 2" | bc`
+		if [[ $state = "1" ]]; then
+			sign="+"
+		else
+			sign="-"
+		fi
+		echo "Bat: ${sign}${percentage}% $delim"
+	else
+		if [[ -f $check0 ]]; then
+			state=$(cat /sys/class/power_supply/AC/online)
+			percentage=$(cat /sys/class/power_supply/BAT0/capacity)
+	
+			if [[ $state = "1" ]]; then
+				sign="+"
+			else
+				sign="-"
+			fi
+	
+			echo "Bat: ${sign}${percentage}%"
+		else
+			echo "No battery"
+		fi
+	fi
+	
+	# Time
+	date '+%Y %b %d (%a) %I:%M%p'
+	echo "$delim"
+	
+	# Hostname
+	echo "$hostname"
+	}
+
+while :; do
+		xsetroot -name "$(status | tr '\n' ' ')"
+		sleep 30s
+done
