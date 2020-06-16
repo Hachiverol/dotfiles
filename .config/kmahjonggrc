@@ -1,9 +1,0 @@
-[General]
-Background_file=/usr/share/kmahjongglib/backgrounds/egyptian.desktop
-Layout_file=/usr/share/kmahjongg//layouts/default.desktop
-Tileset_file=/usr/share/kmahjongglib/tilesets/default.desktop
-
-[MainWindow]
-State=AAAA/wAAAAD9AAAAAAAABVYAAAJsAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
-ToolBarsMovable=Disabled
-Window-Maximized 768x1366=true

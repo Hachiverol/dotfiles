@@ -1,5 +1,0 @@
-[2020-05-19 01:01:58.046] [renderer1] [error] Error: Unable to read file '/home/vlad/storage/os/Windows 10 Enterprise LTSC 2019 X64 3in1 en-US JUNE 2019 {Gen2}/Windows 10 Enterprise LTSC 2019 X64 3in1 en-US JUNE 2019 {Gen2}.txt' (Error: Unable to resolve non-existing file '/home/vlad/storage/os/Windows 10 Enterprise LTSC 2019 X64 3in1 en-US JUNE 2019 {Gen2}/Windows 10 Enterprise LTSC 2019 X64 3in1 en-US JUNE 2019 {Gen2}.txt')
-    at Object.t.createErrorWithActions (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:53:257)
-    at e.handleSetInputError (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5512:744)
-    at e.handleSetInputError (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5515:590)
-    at e.setInput (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5512:460)
