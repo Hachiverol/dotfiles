@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo pacman -Syyu flameshot firefox code feh sxhkd okular obs-studio
+sudo pacman -Syyu flameshot alsa pulseaudio pulseaudio-alsa firefox pamixer code feh sxhkd okular obs-studio
 
 git clone https://aur.archlinux.org/yay.git
 cd yay
