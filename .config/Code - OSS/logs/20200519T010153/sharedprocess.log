@@ -1,0 +1,26 @@
+[2020-05-19 01:01:58.925] [sharedprocess] [info] main {"machineId":"2c07bcf57787bb88859b4616a615793d42521219fd459c6ef761feb08d98bcf5","windowId":2}
+[2020-05-19 01:02:02.085] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-05-19 01:02:02.086] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-05-19 01:02:07.799] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/7c2b7d46-69d1-41f9-bcc0-07f8be7f85da
+[2020-05-19 01:02:08.255] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.ms-vscode.cpptools-0.28.0: ms-vscode.cpptools
+[2020-05-19 01:02:08.256] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/ms-vscode.cpptools-0.28.0
+[2020-05-19 01:02:08.260] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-05-19 01:02:08.379] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-05-19 01:02:30.755] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/1dacc2d2-9db0-46cc-a1d5-978c3b722d8a
+[2020-05-19 01:02:35.825] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.ms-python.python-2020.5.78807: ms-python.python
+[2020-05-19 01:02:35.825] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/ms-python.python-2020.5.78807
+[2020-05-19 01:02:35.837] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-05-19 01:02:35.936] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-05-19 01:02:38.945] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-05-19 01:05:30.605] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2020-05-19 01:05:32.419] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /tmp/df395eaa-e81e-4938-92b1-53c20ab2ed2f
+[2020-05-19 01:05:32.715] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.jeff-hykin.better-cpp-syntax-1.14.30: jeff-hykin.better-cpp-syntax
+[2020-05-19 01:05:32.715] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/jeff-hykin.better-cpp-syntax-1.14.30
+[2020-05-19 01:05:32.717] [sharedprocess] [info] Installation completed. jeff-hykin.better-cpp-syntax
+[2020-05-19 01:05:32.759] [sharedprocess] [info] Extensions installed successfully: jeff-hykin.better-cpp-syntax
+[2020-05-19 01:05:42.017] [sharedprocess] [info] Installing extension: danielpinto8zz6.c-cpp-project-generator
+[2020-05-19 01:05:42.641] [sharedprocess] [info] Downloaded extension: danielpinto8zz6.c-cpp-project-generator /tmp/ace70e5f-55a0-4bb8-8594-f6813c796a72
+[2020-05-19 01:05:42.881] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.danielpinto8zz6.c-cpp-project-generator-1.2.1: danielpinto8zz6.c-cpp-project-generator
+[2020-05-19 01:05:42.881] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/danielpinto8zz6.c-cpp-project-generator-1.2.1
+[2020-05-19 01:05:42.882] [sharedprocess] [info] Installation completed. danielpinto8zz6.c-cpp-project-generator
+[2020-05-19 01:05:42.918] [sharedprocess] [info] Extensions installed successfully: danielpinto8zz6.c-cpp-project-generator

@@ -1,0 +1,29 @@
+shift + alt + l
+	slock
+
+shift + alt + d
+	rofi -show drun -show-icons
+
+XF86AudioRaiseVolume
+	pactl set-sink-volume @DEFAULT_SINK@ +1000; refbar
+
+XF86AudioLowerVolume
+	pactl set-sink-volume @DEFAULT_SINK@ -1000; refbar
+
+XF86AudioMute
+	pactl set-sink-mute @DEFAULT_SINK@ toggle; refbar
+
+XF86AudioMicMute
+	pactl set-source-mute 1 toggle; refbar
+
+XF86MonBrightnessUp
+	xbacklight -inc 10; refbar
+
+XF86MonBrightnessDown
+	xbacklight -dec 10; refbar
+
+Super + Print
+	flameshot full -c -p ~/Pictures/screenshots
+
+Print
+	flameshot gui -p ~/Pictures/screenshots

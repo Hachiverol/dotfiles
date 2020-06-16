@@ -1,0 +1,9 @@
+[2020-06-15 14:29:24.732] [sharedprocess] [info] main {"machineId":"2c07bcf57787bb88859b4616a615793d42521219fd459c6ef761feb08d98bcf5","windowId":2}
+[2020-06-15 14:29:27.233] [sharedprocess] [info] Deleted from disk redhat.java /home/vlad/.vscode-oss/extensions/redhat.java-0.61.0
+[2020-06-15 14:29:27.242] [sharedprocess] [info] Deleted from disk jeff-hykin.better-cpp-syntax /home/vlad/.vscode-oss/extensions/jeff-hykin.better-cpp-syntax-1.14.30
+[2020-06-15 14:29:27.291] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /home/vlad/.vscode-oss/extensions/ms-vscode.cpptools-0.28.0
+[2020-06-15 14:29:27.491] [sharedprocess] [info] Deleted from disk ms-dotnettools.csharp /home/vlad/.vscode-oss/extensions/ms-dotnettools.csharp-1.21.18
+[2020-06-15 14:29:27.546] [sharedprocess] [info] Deleted from disk ms-python.python /home/vlad/.vscode-oss/extensions/ms-python.python-2020.5.78807
+[2020-06-15 14:29:29.892] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2020-06-15 14:29:29.893] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-06-15 14:29:29.893] [sharedprocess] [info] Installing extension: ms-vscode.cpptools

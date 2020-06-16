@@ -1,0 +1,50 @@
+[2020-05-08 01:33:03.617] [exthost] [info] extension host started
+[2020-05-08 01:33:03.643] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-08 01:33:03.644] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-05-08 01:33:03.682] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-08 01:33:03.682] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-05-08 01:33:03.830] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-08 01:33:03.830] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-05-08 01:33:04.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-08 01:33:04.025] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github-authentication/dist/extension.js
+[2020-05-08 01:33:04.103] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-08 01:33:04.103] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-05-08 01:33:04.131] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-08 01:33:04.131] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-05-08 01:33:04.155] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-08 01:33:04.155] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/vscode-account/dist/extension.js
+[2020-05-08 01:33:04.178] [exthost] [info] eager extensions activated
+[2020-05-08 01:33:06.789] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-05-08 01:33:06.789] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/extension
+[2020-05-08 01:33:06.818] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-05-08 01:33:06.818] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2020-05-08 01:33:06.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-05-08 01:33:06.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2020-05-08 01:33:17.517] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"*"}
+[2020-05-08 01:33:17.517] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vlad/.vscode-oss/extensions/ms-vscode.cpptools-0.27.1/dist/main
+[2020-05-08 01:33:18.020] [exthost] [info] ExtensionService#_doActivateExtension ms-dotnettools.csharp {"startup":false,"extensionId":{"value":"ms-dotnettools.csharp","_lower":"ms-dotnettools.csharp"},"activationEvent":"workspaceContains:project.json"}
+[2020-05-08 01:33:18.020] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vlad/.vscode-oss/extensions/ms-dotnettools.csharp-1.21.18/dist/extension
+[2020-05-08 01:33:20.060] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-05-08 01:33:20.060] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extension
+[2020-05-08 01:33:20.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-05-08 01:33:20.128] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/main
+[2020-05-08 01:33:39.335] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":false,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-05-08 01:33:39.336] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vlad/.vscode-oss/extensions/vscode-icons-team.vscode-icons-10.1.1/dist/src/vscode-icons.bundle.js
+[2020-05-08 01:33:40.162] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-05-08 01:33:40.162] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vlad/.vscode-oss/extensions/eamodio.gitlens-10.2.1/dist/extension
+[2020-05-08 01:33:40.506] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-05-08 01:33:40.506] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/html-language-features/client/dist/htmlMain
+[2020-05-08 01:33:40.986] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":false,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-05-08 01:33:40.986] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vlad/.vscode-oss/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-05-08 01:35:22.296] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":false,"extensionId":{"value":"redhat.java","_lower":"redhat.java"},"activationEvent":"workspaceContains:pom.xml"}
+[2020-05-08 01:35:22.296] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vlad/.vscode-oss/extensions/redhat.java-0.61.0/dist/extension
+[2020-05-08 01:35:22.421] [exthost] [error] Activating extension redhat.java failed due to an error:
+[2020-05-08 01:35:22.421] [exthost] [error] TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type object
+	at validateString (internal/validators.js:112:11)
+	at Object.join (path.js:1040:7)
+	at /home/vlad/.vscode-oss/extensions/redhat.java-0.61.0/dist/extension.js:7:11290
+	at new Promise (<anonymous>)
+	at /home/vlad/.vscode-oss/extensions/redhat.java-0.61.0/dist/extension.js:7:11260
+	at Object.<anonymous> (/home/vlad/.vscode-oss/extensions/redhat.java-0.61.0/dist/extension.js:7:12002)
+	at Generator.next (<anonymous>)
+	at o (/home/vlad/.vscode-oss/extensions/redhat.java-0.61.0/dist/extension.js:7:9409)

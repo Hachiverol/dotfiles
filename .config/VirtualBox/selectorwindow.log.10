@@ -1,0 +1,20 @@
+00:00:01.831057 VirtualBox GUI VM Selector Window 6.1.6 r137129 linux.amd64 (Apr 15 2020 10:13:28) release log
+00:00:01.831061 Log opened 2020-05-08T10:22:26.830005000Z
+00:00:01.831062 Build Type: release
+00:00:01.831066 OS Product: Linux
+00:00:01.831068 OS Release: 5.6.11-arch1-1
+00:00:01.831070 OS Version: #1 SMP PREEMPT Wed, 06 May 2020 17:32:37 +0000
+00:00:01.831099 DMI Product Name: 20F5S2GY00
+00:00:01.831112 DMI Product Version: ThinkPad X260
+00:00:01.831119 Firmware type: UEFI
+00:00:01.831695 Secure Boot: Disabled
+00:00:01.831757 Host RAM: 7833MB (7.6GB) total, 7000MB (6.8GB) available
+00:00:01.831769 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.831770 Process ID: 1192
+00:00:01.831771 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.831813 Qt version: 5.14.2
+00:00:01.963692 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.525016 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x28 x 1366x740
+00:00:02.555653 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:17.060674 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:22.914646 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0

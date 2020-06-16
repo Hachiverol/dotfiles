@@ -1,0 +1,51 @@
+[2020-05-08 01:33:02.568] [sharedprocess] [info] main {"machineId":"2c07bcf57787bb88859b4616a615793d42521219fd459c6ef761feb08d98bcf5","windowId":2}
+[2020-05-08 01:33:02.592] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/vlad/.config/Code - OSS/User/snippets'
+[2020-05-08 01:33:13.605] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-05-08 01:33:14.865] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-05-08 01:33:16.143] [sharedprocess] [info] Installing extension: ms-dotnettools.csharp
+[2020-05-08 01:33:16.978] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/eff47579-b9a4-4d5e-8b96-60485480bb57
+[2020-05-08 01:33:17.372] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.ms-vscode.cpptools-0.27.1: ms-vscode.cpptools
+[2020-05-08 01:33:17.372] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/ms-vscode.cpptools-0.27.1
+[2020-05-08 01:33:17.376] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-05-08 01:33:17.406] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-05-08 01:33:17.704] [sharedprocess] [info] Downloaded extension: ms-dotnettools.csharp /tmp/08a7492e-af77-4820-8e16-3afa1cf75e19
+[2020-05-08 01:33:17.746] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.ms-dotnettools.csharp-1.21.18: ms-dotnettools.csharp
+[2020-05-08 01:33:17.747] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/ms-dotnettools.csharp-1.21.18
+[2020-05-08 01:33:17.750] [sharedprocess] [info] Installation completed. ms-dotnettools.csharp
+[2020-05-08 01:33:17.842] [sharedprocess] [info] Extensions installed successfully: ms-dotnettools.csharp
+[2020-05-08 01:33:19.887] [sharedprocess] [info] Installing extension: redhat.java
+[2020-05-08 01:33:27.835] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2020-05-08 01:33:31.860] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2020-05-08 01:33:35.459] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /tmp/8454a98a-df34-4708-a29d-60d62bed4db1
+[2020-05-08 01:33:35.689] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /tmp/91c6c0c9-7092-4fe8-a7bd-1e36dc2e385f
+[2020-05-08 01:33:36.456] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2020-05-08 01:33:39.121] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /tmp/51e4d002-8dd9-49bf-b883-d73225814ef3
+[2020-05-08 01:33:39.180] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.vscode-icons-team.vscode-icons-10.1.1: vscode-icons-team.vscode-icons
+[2020-05-08 01:33:39.181] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/vscode-icons-team.vscode-icons-10.1.1
+[2020-05-08 01:33:39.183] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2020-05-08 01:33:39.217] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
+[2020-05-08 01:33:39.904] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.eamodio.gitlens-10.2.1: eamodio.gitlens
+[2020-05-08 01:33:39.904] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/eamodio.gitlens-10.2.1
+[2020-05-08 01:33:39.914] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2020-05-08 01:33:39.964] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2020-05-08 01:33:40.638] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2020-05-08 01:33:40.638] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/ritwickdey.liveserver-5.6.1
+[2020-05-08 01:33:40.640] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2020-05-08 01:33:40.677] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2020-05-08 01:33:42.586] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-05-08 01:34:15.770] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/76fd0399-8923-49d7-86b1-f1217db8bd8a
+[2020-05-08 01:34:26.552] [sharedprocess] [info] Installing extension: ginfuru.ginfuru-better-solarized-dark-theme
+[2020-05-08 01:35:20.229] [sharedprocess] [info] Downloaded extension: ginfuru.ginfuru-better-solarized-dark-theme /tmp/e5ebdbf0-3cf1-46be-8657-ebcc8326be19
+[2020-05-08 01:35:20.245] [sharedprocess] [info] Downloaded extension: redhat.java /tmp/5f66af47-682a-471a-82b7-2a8ed8784a94
+[2020-05-08 01:35:20.370] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.ginfuru.ginfuru-better-solarized-dark-theme-0.9.4: ginfuru.ginfuru-better-solarized-dark-theme
+[2020-05-08 01:35:20.370] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/ginfuru.ginfuru-better-solarized-dark-theme-0.9.4
+[2020-05-08 01:35:20.373] [sharedprocess] [info] Installation completed. ginfuru.ginfuru-better-solarized-dark-theme
+[2020-05-08 01:35:20.415] [sharedprocess] [info] Extensions installed successfully: ginfuru.ginfuru-better-solarized-dark-theme
+[2020-05-08 01:35:22.026] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.redhat.java-0.61.0: redhat.java
+[2020-05-08 01:35:22.027] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/redhat.java-0.61.0
+[2020-05-08 01:35:22.029] [sharedprocess] [info] Installation completed. redhat.java
+[2020-05-08 01:35:22.096] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2020-05-08 01:35:25.535] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.ms-python.python-2020.4.76186: ms-python.python
+[2020-05-08 01:35:25.535] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/ms-python.python-2020.4.76186
+[2020-05-08 01:35:25.539] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-05-08 01:35:25.593] [sharedprocess] [info] Extensions installed successfully: ms-python.python

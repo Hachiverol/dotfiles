@@ -1,0 +1,26 @@
+[2020-06-16 15:58:35.562] [sharedprocess] [info] main {"machineId":"2c07bcf57787bb88859b4616a615793d42521219fd459c6ef761feb08d98bcf5","windowId":2}
+[2020-06-16 15:58:40.818] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2020-06-16 15:58:40.819] [sharedprocess] [info] Installing extension: ms-dotnettools.csharp
+[2020-06-16 15:58:40.821] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-06-16 15:58:40.821] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-06-16 15:58:41.925] [sharedprocess] [info] Downloaded extension: ms-dotnettools.csharp /tmp/da3eb231-2357-49a1-bab7-9bea1bc1d78c
+[2020-06-16 15:58:42.067] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.ms-dotnettools.csharp-1.22.1: ms-dotnettools.csharp
+[2020-06-16 15:58:42.068] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/ms-dotnettools.csharp-1.22.1
+[2020-06-16 15:58:42.071] [sharedprocess] [info] Installation completed. ms-dotnettools.csharp
+[2020-06-16 15:58:42.164] [sharedprocess] [info] Extensions installed successfully: ms-dotnettools.csharp
+[2020-06-16 15:58:45.864] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /tmp/bbb13b63-34f0-4e1e-a8ce-0232ba4c4a1d
+[2020-06-16 15:58:46.718] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.eamodio.gitlens-10.2.2: eamodio.gitlens
+[2020-06-16 15:58:46.719] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/eamodio.gitlens-10.2.2
+[2020-06-16 15:58:46.724] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2020-06-16 15:58:46.865] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2020-06-16 15:58:47.790] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/74c968d3-e3ba-4504-ac04-90e17d8221ad
+[2020-06-16 15:58:48.454] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.ms-vscode.cpptools-0.28.3: ms-vscode.cpptools
+[2020-06-16 15:58:48.454] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/ms-vscode.cpptools-0.28.3
+[2020-06-16 15:58:48.457] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-06-16 15:58:48.535] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-06-16 15:59:06.777] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/e9d1f03f-2ff8-41c2-8acc-24559f207f07
+[2020-06-16 15:59:09.776] [sharedprocess] [info] Extracted extension to /home/vlad/.vscode-oss/extensions/.ms-python.python-2020.5.86806: ms-python.python
+[2020-06-16 15:59:09.776] [sharedprocess] [info] Renamed to /home/vlad/.vscode-oss/extensions/ms-python.python-2020.5.86806
+[2020-06-16 15:59:09.784] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-06-16 15:59:09.908] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-06-16 15:59:15.582] [sharedprocess] [info] Starting to clean up unused language packs.

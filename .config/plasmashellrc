@@ -1,0 +1,26 @@
+[KFileDialog Settings]
+Recent Files[$e]=wallpaper.jpg,file:$HOME/Pictures/b6d21ec.png,file:$HOME/Pictures/Trinity.Blood.full.89753.jpg,file:$HOME/Pictures/851394.jpg,file:$HOME/Pictures/holo.png,file:$HOME/Pictures/wallpaper.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=0
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_powerdevilprofilesconfig.desktop,2 services_flameshot.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=28
+
+[PlasmaViews][Panel 2][Horizontal1366]
+thickness=28
+
+[PlasmaViews][Panel 20][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 20][Horizontal1366]
+thickness=27
+
+[ScreenConnectors]
+0=eDP1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js
