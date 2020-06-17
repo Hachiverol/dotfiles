@@ -32,7 +32,7 @@ status() { \
 		else
 			sign="-"
 		fi
-		echo "Bat: ${sign}${percentage}% $delim"
+		echo "Bat: ${sign}${percentage}% / 1: $percentage0% / 2: $percentage1% $delim"
 	else
 		if [[ -f $check0 ]]; then
 			state=$(cat /sys/class/power_supply/AC/online)
