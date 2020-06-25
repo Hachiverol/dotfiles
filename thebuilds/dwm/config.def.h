@@ -18,6 +18,8 @@ static char *colors[][3] = {
        /*               fg           bg           border   */
        [SchemeNorm] = { normfgcolor, normbgcolor, normbordercolor },
        [SchemeSel]  = { selfgcolor,  selbgcolor,  selbordercolor  },
+	   [SchemeTitle]  = { col_gray4, col_cyan,  col_cyan  },
+
 };
 
 /* tagging */

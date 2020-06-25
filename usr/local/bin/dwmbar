@@ -3,6 +3,11 @@ delim="|"
 hostname=$HOSTNAME
 
 status() { \
+	# CPU Temp
+	temp1=$(sensors pch_skylake-virtual-0 | grep temp1 | sed 's/temp1://' | sed 's/[ ]//g')
+	echo "Temp: ${temp1}"
+	echo "$delim"
+
 	# RAM usage
 	used=$(vmstat -s | grep 'used memory' | sed 's/K used memory//' | sed 's/[ ]//g' | sed -r 's/.{3}$//')
 	echo "Mem: ${used}M"
@@ -55,7 +60,11 @@ status() { \
 	echo "$delim"
 	
 	# Hostname
-	echo "$hostname"
+	if [[ $(xset q | grep Caps | sed 's/    01.*//' | sed 's/.*   //') = "off" ]]; then
+		echo "$hostname"
+	else
+		echo "${hostname^^}"
+	fi
 	}
 
 while :; do
