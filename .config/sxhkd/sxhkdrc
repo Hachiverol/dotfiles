@@ -1,7 +1,14 @@
+Caps_Lock
+	refbar
+
+shift + alt + p
+	poweroff
+
 shift + alt + f
 	firefox
+
 shift + alt + r
-	st -e ranger
+	st -e bash ranger
 
 shift + alt + l
 	slock
